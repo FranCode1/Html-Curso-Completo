@@ -1,0 +1,16 @@
+.span {
+  color: red;
+}
+#inicio {
+  color: blue;
+}
+#verde {
+  color: green;
+}
+.chip{
+    font-size: 100px;
+    color: red;
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
